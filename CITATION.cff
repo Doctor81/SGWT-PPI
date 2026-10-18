@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Если вы используете этот код, пожалуйста, сошлитесь на статью."
+title: "SGWT-GAT: spectral graph wavelets for protein-protein interaction prediction"
+authors:
+  - family-names: Antonov
+    given-names: V. D.
+    email: antonov.vd@phystech.edu
+    affiliation: "ФИЦ Биотехнологии РАН"
+  - family-names: Kochkarov
+    given-names: A. A.
+    email: a.kochkarov@fbras.ru
+    affiliation: "ФИЦ Биотехнологии РАН"
+preferred-citation:
+  type: conference-paper
+  title: "Применение спектральных графовых вейвлетов для предсказания белок-белковых взаимодействий"
+  authors:
+    - family-names: Antonov
+      given-names: V. D.
+    - family-names: Kochkarov
+      given-names: A. A.
+  collection-title: "Нейроинформатика-2026"
+  conference:
+    name: "XXVIII конференция «Нейроинформатика-2026»"
+  publisher:
+    name: "МФТИ"
+  year: 2026
